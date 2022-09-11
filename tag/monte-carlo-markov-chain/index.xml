@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monte Carlo Markov Chain | Academic</title>
+    <link>https://example.com/tag/monte-carlo-markov-chain/</link>
+      <atom:link href="https://example.com/tag/monte-carlo-markov-chain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monte Carlo Markov Chain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu571820e5b5f211a19226089068501716_16981_512x512_fill_lanczos_center_3.png</url>
+      <title>Monte Carlo Markov Chain</title>
+      <link>https://example.com/tag/monte-carlo-markov-chain/</link>
+    </image>
+    
+    <item>
+      <title>Control Variates for Stochastic Gradient Hamiltonian Monte Carlo</title>
+      <link>https://example.com/project/monte-carlo-/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/monte-carlo-/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;: &lt;a href=&#34;https://dvats.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Dootika Vats&lt;/a&gt;, IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;We Explored the avenues of variance reduction methods such as Control Variates and their applications to Stochastic Gradient based Langevin Dynamics (SGLD), MCMC (SGMCMC) and Hamiltonian Monte Carlo (SGHMC) techniques. In this report, we mainly focused on
+reproducing and extending the results of two papers: &amp;ldquo;Variance Reduction for Stochastic Gradient Optimisation&amp;rdquo; (Wang et. al. (2013)) and &amp;ldquo;Control Variates for Stochastic Gradient MCMC&amp;rdquo; (Baker et. al. (2019)) and explored their theoretical aspects. We extended the notion of Control Variates to different settings such as Metropolis-adjusted Langevin algorithm (MALA) explored how these ideas can be adopted and improved in these settings.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

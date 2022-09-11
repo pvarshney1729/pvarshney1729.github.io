@@ -1,0 +1,16 @@
+
+@InProceedings{pmlr-v178-varshney22a,
+  title = 	 {(Nearly) Optimal Private Linear Regression for Sub-Gaussian Data via Adaptive Clipping},
+  author =       {Varshney, Prateek and Thakurta, Abhradeep and Jain, Prateek},
+  booktitle = 	 {Proceedings of Thirty Fifth Conference on Learning Theory},
+  pages = 	 {1126--1166},
+  year = 	 {2022},
+  editor = 	 {Loh, Po-Ling and Raginsky, Maxim},
+  volume = 	 {178},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--05 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v178/varshney22a/varshney22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v178/varshney22a.html},
+  abstract = 	 {We study the problem of differentially private linear regression where each of the data point is sampled from a fixed sub-Gaussian style distribution. We propose and analyze a one-pass  mini-batch stochastic gradient descent method (DP-AMBSSGD) where points in each iteration are sampled without  replacement. Noise is added for DP but the noise standard deviation is estimated online. Compared to existing $(\epsilon, \delta)$-DP techniques which have  sub-optimal error bounds, DP-AMBSSGD is able to provide nearly optimal error bounds in terms of key parameters like dimensionality $d$, number of points $N$, and the standard deviation \sigma of the noise  in observations. For example, when the $d$-dimensional covariates are sampled i.i.d. from the normal distribution, then the excess error of DP-AMBSSGD due to privacy  is $\sigma^2 d/N(1+d/(\epsilon^2 N))$, i.e., the error is meaningful when number of samples N\geq d \log d which is the standard operative regime for linear regression. In contrast, error bounds for existing efficient methods in this setting are:  $d^3/(\epsilon^2 N^2)$, even for $\sigma=0$. That is, for constant $\epsilon$, the existing techniques require $N=d^{1.5}$ to provide a non-trivial result.}
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soumya Ranjan Dash | Academic</title>
+    <link>https://example.com/authors/soumya-ranjan-dash/</link>
+      <atom:link href="https://example.com/authors/soumya-ranjan-dash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soumya Ranjan Dash</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu571820e5b5f211a19226089068501716_16981_512x512_fill_lanczos_center_3.png</url>
+      <title>Soumya Ranjan Dash</title>
+      <link>https://example.com/authors/soumya-ranjan-dash/</link>
+    </image>
+    
+    <item>
+      <title>CS-NET at SemEval-2020 Task 4: Siamese BERT for ComVE</title>
+      <link>https://example.com/publication/sem-eval/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sem-eval/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

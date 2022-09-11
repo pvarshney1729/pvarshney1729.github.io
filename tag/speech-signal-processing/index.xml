@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech Signal Processing | Academic</title>
+    <link>https://example.com/tag/speech-signal-processing/</link>
+      <atom:link href="https://example.com/tag/speech-signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech Signal Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu571820e5b5f211a19226089068501716_16981_512x512_fill_lanczos_center_3.png</url>
+      <title>Speech Signal Processing</title>
+      <link>https://example.com/tag/speech-signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>Speaker Diarization</title>
+      <link>https://example.com/project/comparison-of-sgd-variants-for-stochastic-optimization/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/comparison-of-sgd-variants-for-stochastic-optimization/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;: &lt;a href=&#34;https://home.iitk.ac.in/~vipular/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Vipul Arora&lt;/a&gt;, IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;In this term report we presented our model for the speaker diarization problem and explained how one can leverage Transfer Learning to quickly learn a model at the expense of negligible performance loss as compared to a fully trained one. Given the input utterances and their speaker identity labels, we extracted embeddings from short audio segments and used these embeddings to segregate the speaker segments within the input source. Building upon this model, we focused on transfer learning and manually adapting over various datasets so as to make our model more generic. We also focused on improving the DER along with experimenting with different embedding generation networks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

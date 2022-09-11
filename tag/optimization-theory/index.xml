@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization Theory | Academic</title>
+    <link>https://example.com/tag/optimization-theory/</link>
+      <atom:link href="https://example.com/tag/optimization-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization Theory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu571820e5b5f211a19226089068501716_16981_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimization Theory</title>
+      <link>https://example.com/tag/optimization-theory/</link>
+    </image>
+    
+    <item>
+      <title>Comparing different SGD variants for online optimization</title>
+      <link>https://example.com/project/speaker-diarization/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/speaker-diarization/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor&lt;/strong&gt;: &lt;a href=&#34;http://home.iitk.ac.in/~ketan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ketan Rejawat&lt;/a&gt;, IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;In this term report we eproduced and extended the empirical results of “On the Insufficiency of Existing Momentum Schemes for Stochastic Optimization” and ”Accelerating Stochastic Gradient Descent For Least Squares Regression” by Kidambi et al. We showed experimentally that there exist simple stochastic problem instances where momentum based methods are sub-optimal and enjoy practical gains over SGD in deep learning applications due to minibatching and also established that ASGD and Adam can converge faster than all other methods irrespective of batch sizes&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
